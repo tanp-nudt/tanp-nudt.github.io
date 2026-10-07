@@ -1,55 +1,17 @@
 ---
 layout: single
+title: "About me"
 permalink: /about/
-title: "About"
+canonical_url: https://tanp-nudt.github.io/
 author_profile: true
 ---
-## Projects
+<p>I am a Ph.D. candidate at the <a href="https://ai.nju.edu.cn/">School of Artificial Intelligence</a>, <a href="https://www.nju.edu.cn/">Nanjing University</a>, supervised by Prof. <a href="https://cs.nju.edu.cn/zhouzh/">Zhi-Hua Zhou</a>.</p>
+<p>My research interests include <strong>machine learning</strong> and <strong>data mining</strong>, with a particular focus on the <strong>learnware paradigm</strong>.</p>
+<h2>Education</h2>
+<p>I received my B.Sc. degree from the <a href="https://sist.ustc.edu.cn/">School of Information Science and Technology</a>, <a href="https://www.ustc.edu.cn/">University of Science and Technology of China</a>, in June 2019. In the same year, I was admitted to the Ph.D. program at Nanjing University without an entrance examination.</p>
+<p>Explore my <a href="{{ '/research/' | relative_url }}">research interests and academic activities</a>, <a href="{{ '/publications/' | relative_url }}">publications</a>, <a href="{{ '/teaching/' | relative_url }}">teaching experience</a>, and the <a href="{{ '/system/' | relative_url }}">Beimingwu system</a>.</p>
+<h2>Correspondence</h2>
+<p>Email: <a href="mailto:tanp@lamda.nju.edu.cn">tanp@lamda.nju.edu.cn</a><br>
+Office: Room 912, Computer Science Building, Xianlin Campus of Nanjing University.</p>
 
-**Beimingwu: A learnware dock system.**
-
-[System homepage](https://bmwu.cloud/#/) · [KDD 2024 video (2 min)](https://www.youtube.com/watch?v=oUwBf2IxCeU) · [System introduction](https://docs.bmwu.cloud/zh-CN/overview/system-overview.html) · [Gitlink](https://www.gitlink.org.cn/beimingwu) · [GitHub](https://github.com/Learnware-LAMDA)
-
-## Patents
-
-- 一种针对异构特征空间学件的查搜与复用方法. **CN116629374B** — Authorized.
-
-## Academic Service
-
-Reviewer for:
-
-- NeurIPS (2022–2025)
-- ICML (2023–2025)
-- ICLR (2024–2025)
-- AAAI (2023, 2025)
-- IJCAI (2021)
-- ECAI (2023)
-- PAKDD (2021)
-
-## Teaching Assistant
-
-- [Introduction to Machine Learning Theory](https://www.lamda.nju.edu.cn/mlt2024/index.html), with Prof. [Wei Wang](https://cs.nju.edu.cn/wangwei), graduate course, Spring 2024.
-- [Introduction to Machine Learning Theory](https://www.lamda.nju.edu.cn/mlt2023/index.html), with Prof. [Wei Wang](https://cs.nju.edu.cn/wangwei), graduate course, Spring 2023.
-- [Introduction to Machine Learning Theory](https://www.lamda.nju.edu.cn/mlt2021/index.html), with Assoc. Prof. [Wei Wang](https://cs.nju.edu.cn/wangwei), graduate course, Spring 2021.
-- [Introduction to Machine Learning](http://www.lamda.nju.edu.cn/zhandc/ml2020/ml2020materialentry.htm), with Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/), Prof. [De-Chuan De](https://www.lamda.nju.edu.cn/zhandc/), and Dr. [Han-Jia Ye](https://www.lamda.nju.edu.cn/yehj/), undergraduate course, Spring 2020.
-
-## Awards & Honors
-
-- Best Student Paper Award, 20th China Conference on Machine Learning (CCML), 2025 — *Tree-based Assembly for Learnwares from Heterogeneous Feature Spaces*.
-- Outstanding PhD Candidate Program of Nanjing University, 2024.
-- Yingcai Scholarship of Nanjing University, First Prize, 2023.
-- Huawei Outstanding Student Award, Second Prize, 2023.
-- Excellent Graduate Student of Nanjing University, 2023.
-- China Post-Graduate Mathematical Contest in Modeling, First Prize ("Star of Mathematical Modeling" nomination), 2019.
-- Nanjing Artificial Intelligence Industry Talent Development Scholarship, 2019.
-- Nanjing University Doctoral Freshman Presidential Scholarship, 2019.
-- Excellent Graduate of University of Science and Technology of China, Hefei, 2019.
-- Special Scholarship for Electronics, CAS, 2017.
-
-## Correspondence
-
-**Email:** [tanp@lamda.nju.edu.cn](mailto:tanp@lamda.nju.edu.cn)
-
-**Office:** Room 912, Computer Science Building, Xianlin Campus of Nanjing University.
-
-**Postal address:** National Key Laboratory for Novel Software Technology, Nanjing University, Xianlin Campus Mailbox 603, 163 Xianlin Avenue, Qixia District, Nanjing 210023, China.
+<p>Postal address: National Key Laboratory for Novel Software Technology, Nanjing University, Xianlin Campus Mailbox 603, 163 Xianlin Avenue, Qixia District, Nanjing 210023, China.</p>
