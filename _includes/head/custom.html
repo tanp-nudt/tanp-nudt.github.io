@@ -14,5 +14,18 @@
   }
   @media (min-width: 64em) {
     .page { padding-right: 0; }
+    .sidebar, .sidebar:hover {
+      opacity: 1;
+      transition: none;
+    }
+    .sidebar .author__content,
+    .sidebar .author__urls-wrapper {
+      opacity: 0.75;
+      transition: opacity 0.2s ease-in-out;
+    }
+    .sidebar:hover .author__content,
+    .sidebar:hover .author__urls-wrapper {
+      opacity: 1;
+    }
   }
 </style>
