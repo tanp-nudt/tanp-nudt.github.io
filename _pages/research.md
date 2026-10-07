@@ -9,14 +9,6 @@ author_profile: true
 
 My research interests include **machine learning** and **data mining**, with a particular focus on the **learnware paradigm**: reusing existing well-trained models to solve new tasks.
 
-My work covers:
-
-- **Heterogeneous learnware reuse:** identifying and reusing models across different feature and label spaces, including explicit label exploitation and tree-based assembly.
-- **Learnware identification and adaptation:** reusability-aware metric learning and repurposing tabular learnwares for new tasks.
-- **Learnware systems and language models:** the Beimingwu learnware dock system and learnware of specialized small language models.
-
-See [Publications]({{ '/publications/' | relative_url }}) for papers and [System]({{ '/system/' | relative_url }}) for the Beimingwu platform.
-
 ## Academic Service
 
 Reviewer for:
@@ -31,16 +23,10 @@ Reviewer for:
 
 ## Awards & Honors
 
-- Best Student Paper Award, 20th China Conference on Machine Learning (CCML), 2025 — *Decision Tree-Based Assembly for Learnwares from Heterogeneous Feature Spaces*.
-- Outstanding PhD Candidate Program of Nanjing University, 2024.
-- Yingcai Scholarship of Nanjing University, First Prize, 2023.
-- Huawei Outstanding Student Award, Second Prize, 2023.
-- Excellent Graduate Student of Nanjing University, 2023.
+- Deya Young Scholar, National University of Defense Technology (德雅青年学者).
+- Hunan Furong Talent Program — Science and Technology Innovation (湖南省芙蓉计划科技创新类人才).
+- National Postdoctoral Researcher Funding Program, Category B (国家资助博士后计划 B 档).
 - China Post-Graduate Mathematical Contest in Modeling, First Prize ("Star of Mathematical Modeling" nomination), 2019.
-- Nanjing Artificial Intelligence Industry Talent Development Scholarship, 2019.
-- Nanjing University Doctoral Freshman Presidential Scholarship, 2019.
-- Excellent Graduate of University of Science and Technology of China, Hefei, 2019.
-- Special Scholarship for Electronics, CAS, 2017.
 
 ## Patents
 
