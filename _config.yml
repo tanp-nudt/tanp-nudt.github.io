@@ -1,6 +1,6 @@
 title: "Peng Tan"
 name: "Peng Tan"
-email: "tanp@lamda.nju.edu.cn"
+email: "tanpnudt@hotmail.com"
 description: "Peng Tan — machine learning, data mining, and the learnware paradigm."
 url: "https://tanp-nudt.github.io"
 baseurl: ""
@@ -31,13 +31,13 @@ plugins:
   - jekyll-include-cache
 author:
   name: "Peng Tan"
-  avatar: "https://www.lamda.nju.edu.cn/tanp/file/portrait.jpg"
-  bio: "Ph.D. candidate<br>Nanjing University"
-  location: "Nanjing, China"
+  avatar: "/assets/images/portrait-2026.jpg"
+  bio: "Postdoctoral Researcher<br>Deya Young Scholar<br>College of Science, NUDT"
+  location: "Changsha, China"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:tanp@lamda.nju.edu.cn"
+      url: "mailto:tanpnudt@hotmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tanp-nudt"
