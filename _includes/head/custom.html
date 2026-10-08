@@ -34,13 +34,28 @@
   .page__footer,
   .skip-links a[href="#footer"] { display: none; }
   body { margin-bottom: 0; }
-  @media (min-width: 64em) {
-    .sidebar .author__avatar { text-align: center; }
-    .sidebar .author__avatar img { width: 160px; max-width: 100%; }
-    .sidebar .author__name { text-align: center; }
+  .sidebar { text-align: center; }
+  .sidebar .author__avatar,
+  .sidebar .author__content,
+  .sidebar .author__urls-wrapper {
+    display: block;
+    width: 100%;
+    padding: 0;
+    text-align: center;
   }
-  @media (max-width: 63.999em) {
-    .sidebar .author__avatar { width: 80px; }
-    .sidebar .author__avatar img { width: 80px; max-width: 80px; }
+  .sidebar .author__avatar img { width: 110px; max-width: 100%; }
+  .sidebar .author__name { text-align: center; }
+  .sidebar .author__urls-wrapper button { display: none; }
+  .sidebar .author__urls {
+    display: block;
+    position: static;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+    text-align: center;
   }
+  .sidebar .author__urls::before,
+  .sidebar .author__urls::after { display: none; }
 </style>
