@@ -13,18 +13,19 @@ My research interests include **machine learning** and **data mining**, with a p
 
 **Conference Reviewers:**
 
-- NeurIPS (2022–2025), ICML (2023–2025), ICLR (2024–2025), AAAI (2023, 2025), IJCAI (2021), ECAI (2023), PAKDD (2021)
+- NeurIPS (2022–2025), ICML (2023–2026), ICLR (2024–2025), AAAI (2023, 2025, 2026), IJCAI (2021), ECAI (2023), PAKDD (2021)
 
 **Reviewer for Journals:**
 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- Frontiers of Computer Science (FCS)
 
 ## Awards & Honors
 
-- 国防科技大学德雅青年学者
-- 湖南省芙蓉计划科技创新类人才
-- 国家资助博士后计划 B 档
-- 中国研究生数学建模竞赛一等奖（“数模之星”提名），2019 年
+- 国家资助博士后计划 B 档，2026 年
+- 湖南省芙蓉计划科技创新类人才，2026 年
+- 国防科技大学德雅青年学者博士后，2025 年
+- 中国研究生数学建模竞赛“数模之星”提名（前10），2019 年
 
 ## Project
 
