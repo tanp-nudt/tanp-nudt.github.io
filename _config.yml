@@ -30,7 +30,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 author:
-  name: "Peng Tan"
+  name: "Peng Tan（谭鹏）"
   avatar: "/assets/images/portrait-2026.jpg"
   bio: "Postdoctoral Researcher<br>Deya Young Scholar<br>College of Science, NUDT"
   location: "Changsha, China"
