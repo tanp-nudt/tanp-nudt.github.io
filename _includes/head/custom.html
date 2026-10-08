@@ -30,4 +30,17 @@
   }
   .page__content h2#project { margin-bottom: 0.5em; }
   .page__content h2#project + h3 { margin-top: 0; }
+  .masthead .site-title,
+  .page__footer,
+  .skip-links a[href="#footer"] { display: none; }
+  body { margin-bottom: 0; }
+  @media (min-width: 64em) {
+    .sidebar .author__avatar { text-align: center; }
+    .sidebar .author__avatar img { width: 160px; max-width: 100%; }
+    .sidebar .author__name { text-align: center; }
+  }
+  @media (max-width: 63.999em) {
+    .sidebar .author__avatar { width: 80px; }
+    .sidebar .author__avatar img { width: 80px; max-width: 80px; }
+  }
 </style>
