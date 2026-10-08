@@ -10,7 +10,7 @@ author_profile: true
 **Learnware of Language Models: Specialized Small Language Models Can Do Big.**  
 Zhi-Hao Tan\*, Zi-Chen Zhao\*, Hao-Yu Shi\*, Xin-Yu Zhang, **Peng Tan**, Yang Yu, Zhi-Hua Zhou.  
 arXiv:2505.13425, 2025.  
-[arXiv](https://arxiv.org/abs/2505.13425) · [PDF](https://arxiv.org/pdf/2505.13425)
+[arXiv](https://arxiv.org/abs/2505.13425)
 
 ## 2026
 
@@ -28,13 +28,13 @@ Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mi
 基于决策树的异构特征空间学件组装方法  
 **Peng Tan**, Zhi-Hua Zhou.  
 *Journal of Computer Research and Development*, 63(5): 1249–1260, 2026.  
-[Publisher](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202550460) · [PDF](https://crad.ict.ac.cn/cn/article/pdf/preview/10.7544/issn1000-1239.202550460.pdf)  
+[PDF](https://crad.ict.ac.cn/cn/article/pdf/preview/10.7544/issn1000-1239.202550460.pdf)  
 **Best Student Paper Award**, 20th China Conference on Machine Learning (**CCML**), 2025.
 
 **Tabular Learnwares Can Be Repurposed for Seemingly Irrelevant New Tasks.**  
 **Peng Tan**, Fei-Fan Yang, Zhi-Hao Tan, Zhi-Hua Zhou.  
 Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI'26**), 40(30): 25778–25786, 2026.  
-[Publisher](https://ojs.aaai.org/index.php/AAAI/article/view/39776) · [PDF](https://ojs.aaai.org/index.php/AAAI/article/download/39776/43737)
+[PDF](https://ojs.aaai.org/index.php/AAAI/article/download/39776/43737)
 
 ## 2024
 
