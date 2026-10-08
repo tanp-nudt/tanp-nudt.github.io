@@ -38,12 +38,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:tanpnudt@hotmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tanp-nudt"
-    - label: "LAMDA Homepage"
-      icon: "fas fa-fw fa-university"
-      url: "https://www.lamda.nju.edu.cn/tanp/"
 footer:
   links:
     - label: "GitHub"
