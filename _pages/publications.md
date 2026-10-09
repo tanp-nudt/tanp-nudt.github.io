@@ -58,7 +58,7 @@ Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mi
 **Handling Learnwares Developed from Heterogeneous Feature Spaces without Auxiliary Data.**  
 **Peng Tan**, Zhi-Hao Tan, Yuan Jiang, Zhi-Hua Zhou.  
 Proceedings of the 32nd International Joint Conference on Artificial Intelligence (**IJCAI'23**), Macao, China, 2023, pp. 4235–4243.  
-[PDF](https://www.lamda.nju.edu.cn/tanp/tanp/Pub/2023-IJCAI-Heterogeneous-learnware-supp.pdf)
+[PDF](/assets/2023-IJCAI.pdf)
 
 ## 2020
 
